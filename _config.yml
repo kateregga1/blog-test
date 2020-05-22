@@ -1,0 +1,11 @@
+# basic options
+title: Geoffrey's Blog
+author: Geoffrey Kateregga
+email: kateregga1@gmail.com
+description: Jekyll blog site
+twitter_username: kateregga1
+github_username:  kateregga1
+
+# Build settings
+markdown: kramdown
+theme: minima
